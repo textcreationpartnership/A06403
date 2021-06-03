@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Conclusions vpon dances, both of this age, and of the olde. Newly composed and set forth, by an out-landish doctor</title>
+            <author>Lowin, John, 1576-1659.</author>
+         </titleStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A06403</idno><idno type="EEBO-CITATION">99845293</idno>
+  <idno type="VID">10184</idno>
+  <idno type="EEBO-PROQUEST">2248528899</idno>
+  <idno type="STC">STC 16874</idno>
+  <idno type="STC">ESTC S109646</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99845293e"/>
+            <note>(EEBO-TCP ; phase 2, no. A06403)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 10184)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 845:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Conclusions vpon dances, both of this age, and of the olde. Newly composed and set forth, by an out-landish doctor</title>
+                  <author>Lowin, John, 1576-1659.</author>
+               </titleStmt>
+               <extent>[26] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [by N. Okes and W. White] for Iohn Orphinstrange, and are to be solde at his shop neere Holborne Bridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1607.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: I.L. Roscio, i.e. John Lowin.</note>
+                  <note>Printers' names from STC.</note>
+                  <note>Signatures: A⁴ (-A1) B-C⁴ D² .</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Acting --  Religious aspects --  Christianity --  Early works to 1800.</term>
+               <term type="topical_term">Dance --  Religious aspects --  Christianity --  Early works to 1800.</term>
+               <term type="topical_term">Dance --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:10184:1"/>
+            <pb facs="tcp:10184:1"/>
+            <p>CONCLVSIONS VPON DANCES, BOTH OF THIS AGE, AND OF THE OLDE.</p>
+            <p>
+               <hi>Newly composed and set forth,</hi> by an Out-landish <hi>Doctor.</hi>
+            </p>
+            <p>LONDON, Printed for <hi>Iohn Orphinstrange,</hi> and are to be solde at his shop <hi>neere Holborne Bridge.</hi> 1607.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:10184:2"/>
+            <pb facs="tcp:10184:2"/>
+            <head>TO THE RIGHT <hi>Honorable Lord, my Lord</hi> DENNIE.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Y <hi>LORD,</hi> when I make a dedication of some wri<g ref="char:EOLhyphen"/>ting of mine, it is not for to follow the common and ordinarie proceedings of other writers: but onely because J see such a deed to haue beene ef<g ref="char:EOLhyphen"/>fected by the Euangelist S. <hi>Luke,</hi> which dedicated his writings to
+<pb facs="tcp:10184:3"/>that great man, most Honorable <hi>Theophilus.</hi> The certainty wher<g ref="char:EOLhyphen"/>of doth manifestlie appeare about the beginning of his Gospell, as also in the entrance of his other booke, commonly called, <hi>The Acts of the Apostles.</hi> And now I dedicate these my Conclusions vpon dances to your Lordship, because I was once moo<g ref="char:EOLhyphen"/>ued to speake of them in your Lord<g ref="char:EOLhyphen"/>ships companie: which matter I could not then handle so pertinently in speach, as I can at this time in ink and paper. Thus in <hi>London,</hi> with my praier to God for you, my Lord, the <hi>23.</hi> of <hi>Nouember. 1606.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>Your Lordships</hi> humble seruant <hi>I. L. ROSCIO.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="printer_to_the_reader">
+            <pb facs="tcp:10184:3"/>
+            <head>THE PRINTER TO the Reader.</head>
+            <p>
+               <seg rend="decorInit">L</seg>Et mee now entreate thee, courteous &amp; tractable Rea<g ref="char:EOLhyphen"/>der, not to stay thy minde vpon the word, Dances: but to make thy recourse thorow the matters, which are deduced vnder that title. For what cause? Otherwise the subiect of this purpose, as I thinke, shall seeme vnto thy iudgement, to be vaine and friuolous, whereas of it selfe, it is altogether serious, and of agreat moment. Heare mee a little. The Au<g ref="char:EOLhyphen"/>thor of this Treatise concerning Dances, doth not lay the foundation of his arguments vpon his owne opinion, nor vpon the fantasticall imagi<g ref="char:EOLhyphen"/>nations of some others: but vpon the word of GOD it selfe, which is comprehended in the Holy Bookes of the Olde and Newe Testaments.
+<pb facs="tcp:10184:4"/>The which thing may verie plainely be discerned, by the vnion, or congruitie of this small Treatise, being not framed according to the pleasure of the eye, but for the comfort of the heart: In which comfort these holy men and women (which he hath named, and before our eyes heere erected) magnified the most mightie Creator of all visible and inuisible crea<g ref="char:EOLhyphen"/>tures, holding it to bee their dutie, not onely pri<g ref="char:EOLhyphen"/>uately to laud and reioyce in him for the victories they receiued: but also to stirre vp the people (which they ruled,) by the actiuenes and agilitie of their bodies in Dances, to praise and land the immortall worker of their triumphs: Therefore bee thou instruc<g ref="char:EOLhyphen"/>ted by the doctrine herein contained: and the Lord haue thee alwaies vnder his protection.</p>
+            <closer>
+               <signed>Your friend <hi>IOHN ORPHINSTRANGE.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:10184:4"/>
+            <head>CONCLVSIONS VPON DANCES, BOTH OF THIS AGE AND OF THE OLD.</head>
+            <div type="part">
+               <head>Three diuers opinions of learned men, concer<g ref="char:EOLhyphen"/>ning Dances.</head>
+               <p>
+                  <seg rend="decorInit">C</seg>Reat is the diuersitie of opinions about the vsage of dances, euen as it is about a thousand other matters of no slender im<g ref="char:EOLhyphen"/>portance. Some men of good vnderstanding and litterature, doe affirme dances to bee holy of themselues: and their chiefe allegation regardeth the sixt Chapter of the second booke of <hi>Samuel,</hi> where it is writ<g ref="char:EOLhyphen"/>ten, that the Prophet <hi>Dauid</hi> danced before the Arke of the Lord, when it was carried from the house of <hi>Obed-Edom</hi> to the Citie of <hi>Dauid,</hi> with shouting and sound of Trumpet. Many others doe maintaine, that such an exercise is pro<g ref="char:EOLhyphen"/>phane: and doe principally inferre out of the
+<pb facs="tcp:10184:5"/>32. chapter of <hi>Exodus,</hi> that the corrupted <hi>Is<g ref="char:EOLhyphen"/>raelites</hi> did dance in their idolatrie about the molten Calfe, which they compelled <hi>Aaron</hi> to make. But after the iudgement of the grea<g ref="char:EOLhyphen"/>ter number, it is a thing altogether indifferent: and their highest argument doth embrace one speech of Christ in the 7. chap. of the Gospell according to Saint <hi>Luke,</hi> which is this, <hi>They are like vnto little children sitting in the mar<g ref="char:EOLhyphen"/>ket place, and crying one to another, and say<g ref="char:EOLhyphen"/>ing, VVee haue piped vnto you, and ye haue not danced: wee haue mourned vnto you, and you haue not wept.</hi> Let the hearers and readers open their mindes vnto vs, or vnto others, vpon such di<g ref="char:EOLhyphen"/>uersities.</p>
+               <p>It may easily be perceiued, in marking some places of the Old and New Testaments, that the holinesse, prophanation, and indifferencie of dances, must be considered vpon the causes of dancing. Wherefore wee are minded to set downe, by the permission of the Almightie, some instructiue obseruations touching that purpose.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:10184:5"/>
+               <head>Of the Dances vsed in the <hi>Old Age, and formerly of</hi> the holy.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>Hat Dance was holy, which, as wee read in the 15. chap. of <hi>Exodus,</hi> was effected by <hi>Miriam</hi> the Prophetesse, sister of <hi>Aa<g ref="char:EOLhyphen"/>ron</hi> and <hi>Moses,</hi> with all the other <hi>Israelitish</hi> wo<g ref="char:EOLhyphen"/>men, when God had mi<g ref="char:EOLhyphen"/>raculously destroyed their deadly foes the <hi>Ae<g ref="char:EOLhyphen"/>gyptians,</hi> to wit, King <hi>Pharao</hi> and his mightie hoste, in ouerthrowing and drowning them all at once in the red Sea. For they danced in sin<g ref="char:EOLhyphen"/>ging prayses vnto God for their deliuerance: and so the cause of their dancing was godly, and consequently the dance it selfe was ho<g ref="char:EOLhyphen"/>ly. That Dance was holy likewise, which the Scripture sheweth vs in the 11. chap. of <hi>Iudges,</hi> when <hi>Iptah</hi> had vanquished his ad<g ref="char:EOLhyphen"/>uersaries the <hi>Ammonites,</hi> and returned to his house: which <hi>Ammonites</hi> had beene verie cruel oppressors of the <hi>Israelits</hi> eighteen years.
+<pb facs="tcp:10184:6"/>For the daughter of <hi>Iaphtah</hi> with her compa<g ref="char:EOLhyphen"/>nions went out to meete her father, and dan<g ref="char:EOLhyphen"/>ced in magnifying the Lord, because he had giuen him the victorie ouer his enemies.</p>
+               <p>Is not the like argument to be framed vpon the like subiect, in the 18. chap. of the first book of <hi>Samuel?</hi> We see there, how that the women of <hi>Israel</hi> came out of all their Cities, to ho<g ref="char:EOLhyphen"/>nour <hi>Dauid</hi> returning from the slaughter of <hi>Go<g ref="char:EOLhyphen"/>liath</hi> the Philistim: and how that they danced in giuing glorie to the Almightie, because hee had auenged his people <hi>Israel</hi> of their foes the <hi>Philistims,</hi> which were slaundering and blaspheming idolaters. And the 15. Chapter of the booke of <hi>Iudith</hi> doth confirme this mat<g ref="char:EOLhyphen"/>ter of dancing, in that it manifesteth the <hi>Dan<g ref="char:EOLhyphen"/>ces</hi> of that most vertuous, godly, and valiant widow <hi>Iudith,</hi> after she had saued the Citie of <hi>Bethulia,</hi> and discomfited the <hi>Persians, Medes,</hi> and all the rest, by smiting off, with her heroi<g ref="char:EOLhyphen"/>call hand, the head of <hi>Olofernes,</hi> chiefe Cap<g ref="char:EOLhyphen"/>taine of <hi>Nabuchodonosor</hi> King of the <hi>Assyrians.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:10184:6"/>
+               <head>Vpon what occasions, in the <hi>Old Age, the dances were</hi> vsed.</head>
+               <p>
+                  <seg rend="decorInit">N</seg>Ow euerie man may learne by those premis<g ref="char:EOLhyphen"/>ses, that the godly wo<g ref="char:EOLhyphen"/>men of <hi>Israell</hi> did dance publikly, after some great victorie, in praysing and glorifying the name of the Lord for the same: and that they did not vse that kinde of exercise with any minde toward some worldly pleasure. But was it onely about victories? It was also a<g ref="char:EOLhyphen"/>bout the celebration of some solemne feast consecrated vnto God: as we haue the example thereof in the 21. Chap. of <hi>Iudges.</hi> For the Elders of <hi>Israel</hi> hauing no wiues for two hun<g ref="char:EOLhyphen"/>dreth men of <hi>Beniamin</hi> bad them goe to <hi>Shiloh,</hi> where a feast of the Lord was celebrated euery yeare: saying, Goe and lye in wait in the Vine<g ref="char:EOLhyphen"/>yards, and when ye see the daughters of <hi>Shiloh</hi> come out to dance in Dances, then come yee out of the Vineyardes, and catch you euery
+<pb facs="tcp:10184:7"/>man a wife of the daughters of <hi>Shiloh,</hi> and goe into the land of <hi>Beniamin.</hi> So ye may clearely see, that the vsage of dancing was not onely or<g ref="char:EOLhyphen"/>dained for victories, but also for solemne feasts: and that a conclusion may be gathered out of it, to be lawfull to reioyce with dances, at the time of mariages, and of all other holy and great occasions. But it were meete and conuenient, ye should alwaies remember one thing: that whensoeuer the occasions of dan<g ref="char:EOLhyphen"/>cing are holy, then the forme of dancing ought to represent holinesse, as the indifferent doe require indifferencie: the discerning wher<g ref="char:EOLhyphen"/>of must be left to the iudgement of godly and well learned persons.</p>
+               <p>Wee doe not adde to this place the historie contained in the sixt chap. of the second booke of <hi>Samuel,</hi> which saith, That the Prophet <hi>Da<g ref="char:EOLhyphen"/>uid</hi> danced before the Arke of God: because a doubt may rise thereupon, whether that mo<g ref="char:EOLhyphen"/>tion of <hi>Dauid</hi> was a dance, or not. For as in the 82. <hi>Psalme,</hi> and in other doctrines of the holy Bible, Princes and Magistrates are called Gods, because in a manner they bee like vnto God: so that motion of <hi>Dauid</hi> might be taken in the number of dances, because it had some likenesse with them. What is that, which com<g ref="char:EOLhyphen"/>pelleth
+<pb facs="tcp:10184:7"/>vs to argue in this sort? I pray you, hearken a little. Dances are motions com<g ref="char:EOLhyphen"/>posed with measure: but that motion of <hi>Dauid</hi> was without measure: as it is not difficult to be comprehended, in that he discouered himselfe before his maids, whereupon hee was mocked of his wife <hi>Michal.</hi> What might haue beene the cause of such a motion in him? His minde was transported and carried away, through the great vehemencie of the burning zeale, where<g ref="char:EOLhyphen"/>with hee was altogither inflamed.</p>
+            </div>
+            <div type="part">
+               <head>Of the Vnlawfull Dances, <hi>which are commonly</hi> cal<g ref="char:EOLhyphen"/>led prophane.</head>
+               <p>
+                  <seg rend="decorInit">A</seg>S touching prophane <hi>Dances,</hi> that <hi>Dance</hi> which the Apostle Saint <hi>Mat<g ref="char:EOLhyphen"/>thew</hi> in the 14. Chapter of his Gospell, writeth to haue beene danced before <hi>Herod</hi> by the daugh<g ref="char:EOLhyphen"/>ter of <hi>Herodtas,</hi> may be a sufficient testimoniall. There it clearely appeareth to all persons en<g ref="char:EOLhyphen"/>dued with some discretion, that in her Dance
+<pb facs="tcp:10184:8"/>she had no regard vnto God, but onely vnto <hi>Herod:</hi> that she might most excellently please the said <hi>Herod,</hi> to the intent that he should make her some extraordinarie high promise, whereby she might purchase to her selfe the head of Saint <hi>Iohn Baptist,</hi> for to carrie it to her mother <hi>Herodias,</hi> which did hate that good Prophet with a deadly hatred. And wee con<g ref="char:EOLhyphen"/>clude thereupon, that euery dancer and dance<g ref="char:EOLhyphen"/>resse, which in their dances haue no remem<g ref="char:EOLhyphen"/>brance of God, are greatly culpable before the eyes of God himselfe, although they seeme to be without fault in the sight of men.</p>
+               <p>Wee do not bring hither the dancing men<g ref="char:EOLhyphen"/>tioned in the 23. Chap. of <hi>Exodus:</hi> because those stubborn and stiffe hearted <hi>Israelites,</hi> which dan<g ref="char:EOLhyphen"/>ced about the molten Calfe, were become I<g ref="char:EOLhyphen"/>dolaters. For it might be in that consideration, that such dances were part of their religion.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:10184:8"/>
+               <head>Of such Dances, as by reason are estemed to <hi>be indifferent.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">B</seg>Vt for the indifferencie of <hi>Dances,</hi> wee haue the 15. Chapter of the <hi>Euangelist S. Luke:</hi> where our Saui<g ref="char:EOLhyphen"/>our <hi>Iesus Christ</hi> speaking of the Prodigall Sonne, which had wasted abroad all his portion of Goods, and afterward was returned to his Father, with humble confession of his offence, sayth in good part, &amp; in the narration of a godly deed, that they made great mirth for his sake in the house, with Bankets, Melodie, and <hi>Dances.</hi> And there that indifferencie of <hi>Dancing,</hi> is to be more plainely seene in these wordes, <hi>Let vs eate, and be merrie.</hi> King <hi>Salomon</hi> among many indifferent thinges, which he setteth down for our instruction, in the 3. Chapter of his <hi>Ecclesiastes,</hi> doeth also teach vs this: <hi>That as there is a time to mourne, so there is a time to Dance.</hi> And such a thing may also serue vs heere, for the proofe of the indifferencie of
+<pb facs="tcp:10184:9"/>
+                  <hi>Dances:</hi> concluding besides that, by the last ex<g ref="char:EOLhyphen"/>ample and doctrine now deduced, that it is not any action displeasant vnto God, to vse <hi>Dances</hi> for an honest recreation, in the ioyfull meetings of faythfull friendes, or deare kinsfolkes; and in all other occasions like vnto that same.</p>
+               <p>Wee do not vse heere, that comparison of the little Children, inuiting other little Children to <hi>Dance,</hi> comprehended in the 7. Chap. of the Gospell according to <hi>S. Luke,</hi> which compari<g ref="char:EOLhyphen"/>son the Lord <hi>Iesus</hi> vttered for himselfe, and for the Prophet <hi>S. Iohn Baptist,</hi> against the <hi>Pharises</hi> and Expounders of the Law. For it is well kno<g ref="char:EOLhyphen"/>wen euery where, that many thinges are to be tollerated in Children, which are not to be tol<g ref="char:EOLhyphen"/>lerated in other persons: as the ryding vpon Stickes, and the playing with Babies; with such other foolish pastimes.</p>
+            </div>
+            <div type="part">
+               <head>What sort of Dancing is more <hi>conuenient for the health.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">A</seg> Mong the indifferent <hi>Dances,</hi> those <hi>Dances</hi> as we thinke, must be numbred, which are practised for the exercise of the body, that thereby the bodily health may be better preserued. Wher<g ref="char:EOLhyphen"/>fore
+<pb facs="tcp:10184:9"/>in regarding the diuersitie of dispositions, which is founde at all times in the humaine kinde, it will not bee amisse, to set downe one worde in this purpose, to declare what sort of <hi>Dancing</hi> is more conuenient for these, and what for those.</p>
+               <p>Such <hi>Dances</hi> as doe strongly stirre the body, ought to be chosen of them, which haue some obstructions in the wayes of the Vrine, or some other like impediment. And the contrarie must be vsed of such persons, as doe perceiue their owne Braines to be weake, or the like infirmi<g ref="char:EOLhyphen"/>tie to be in some other part. But to the others that Dancing is fitter, which exerciseth the bo<g ref="char:EOLhyphen"/>die in a meane measure of agitation. Therefore let all those persons, which doe ordinarily exer<g ref="char:EOLhyphen"/>cise them selues in <hi>Dances,</hi> carefully obserue and regard the constitutions of their bodyes: to the intent, that they should not vse any kind of <hi>Dan<g ref="char:EOLhyphen"/>cing,</hi> which by repugnancie might be hurtfull to their complxions: Remembring assidually within themselues, and so much the more in this matter, to acknowledge God to be the Au<g ref="char:EOLhyphen"/>thor of all good thinges: because the Apostle <hi>S. Paul</hi> in the 4. Chap. of his first Epistle to <hi>Timo<g ref="char:EOLhyphen"/>theus</hi> doth condemne the bodily exercise, when it is not accompanied with godlines.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:10184:10"/>
+               <head>Of the ordinarie Dances, vsed <hi>euerie where, in these dayes.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">N</seg>Ow that we haue handled the <hi>Dances</hi> of the old Age, shall wee make euident in few lines, what wee thinke of the <hi>Dances</hi> of our dayes? These <hi>Dances</hi> (I speake of the greater part of them) doe seeme vnto our iudge<g ref="char:EOLhyphen"/>ment, to be partly vaine, and partly prophane. Vaine, because neither men nor women are a<g ref="char:EOLhyphen"/>ble to attaine vnto the knowledge and practise of the art of such <hi>Dancing,</hi> without vexation of the Spirit, and losse of time. Prophane, because in the old age, the women <hi>Danced</hi> to this intent, that thereby their spirituall Songes and Diuine prayses should waxe more seruent; and conse<g ref="char:EOLhyphen"/>quently become more acceptable vnto GOD: wheras now very often, in a great many places, among the Christians them-selues, not onely the Women, but also the Men, doe <hi>Dance</hi> to please the world. Notwithstanding God alone is hee, which seeth their heartes and intentions: and without difficultie it may be, that our con<g ref="char:EOLhyphen"/>iectures
+<pb facs="tcp:10184:10"/>are not sufficiently iudicious.</p>
+               <p>The vexation of the Spirit is so much spoken against, by that wise <hi>Salomon</hi> in his Booke of <hi>Eccesiastes,</hi> that it is a wonderfull thing, to see so many, &amp; so many againe, that neuer keepe them selues from the tearing clawes of that monster. And the losse of Time, might be better auoy<g ref="char:EOLhyphen"/>ded, if men would but note the admonition of the Apostle <hi>S. Paul,</hi> in the 5. Chap. of his Epistle to the <hi>Ephesians,</hi> where hee biddeth them <hi>Re<g ref="char:EOLhyphen"/>deeme the time:</hi> when hee admonisheth them, <hi>To walke circumspectly, not as Fooles; but as Wise, and to vnderstand what the will of the Lord is.</hi>
+               </p>
+               <p>Moreouer, many of these <hi>Dances</hi> are so much artificiall (at the least within our cogitations, and within the cogitations of some other persons, which haue also obserued in the holy Histories of the old Testament, the manner of <hi>Dancing</hi> practised among the <hi>Israelitish</hi> women, that liued in the feare of God) many of these <hi>Dances</hi> (I say) are so much artificiall, that the humaine mindes can not be intended nor attentiue to the Art of <hi>Dancing,</hi> and to the prayse of God together.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:10184:11"/>
+               <head>Whether it bee lawfull for men <hi>to dance with women.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">M</seg>Any men doe argue, that it is lawfull for them, to dance with women: be<g ref="char:EOLhyphen"/>cause (say they) the Pro<g ref="char:EOLhyphen"/>phet <hi>Dauid</hi> exhorteth vs in one of his <hi>Psalmes,</hi> to praise God in <hi>Dances.</hi> But that argument cannot bee strong enough. For besides that the <hi>Hebrewe</hi> word doth carry diuers significations, the later and riper Translations, both in <hi>English</hi> and in other Languages, doe not name any <hi>Dance.</hi> Therefore we would rather counsell them to take an other way, and sende them to that Text of the Prophet <hi>Ieremie</hi> in the 31. Chapter, <hi>The Virgine shall reioyce in the Dance, and the yong men and the olde men together: for I will turne their mourning into ioy, &amp; will comfort them, and giue them ioy for their sorrowes.</hi>
+               </p>
+               <p>Heere many others do endeuour themselues, to make an opposition in this manner. As the flowing of milke and hony (say they) is taken in the Scripture, for the aboundance of all things
+<pb facs="tcp:10184:11"/>necessary to the humane life; so the <hi>Dance</hi> is put in that Text for the greatnes of ioy. But let them marke, or remember one thing: The wordes must be vnderstood in an other sense, when they are repugnant vnto reason but the word <hi>Dance,</hi> is not repugnant vnto reason, in that text of <hi>Ie<g ref="char:EOLhyphen"/>remie</hi> aboue recited.</p>
+            </div>
+            <div type="part">
+               <head>To what estates the Dances are thought <hi>to be more becomming.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">I</seg>F wee will but marke meanely well a little part of the 15. Chap. of <hi>Exodus</hi> alreadie mentioned, it shall be sufficiently manifest vn<g ref="char:EOLhyphen"/>to vs, that the <hi>Israelitish</hi> women <hi>Danced</hi> with <hi>Mi<g ref="char:EOLhyphen"/>riam</hi> the Prophetesse, for that they were moo<g ref="char:EOLhyphen"/>ued and brought to it by the sayd <hi>Miriam,</hi> which began to <hi>Dance,</hi> and was the leader of them. Whereby wee shall remaine fully perswaded, that those women did not embolden themselues towardes that exercise, in the presence of her, which was aboue them in dignitie, vntill they were bidden and inuited to it by her example.
+<pb facs="tcp:10184:12"/>And this doth cause the opinions of many Lear<g ref="char:EOLhyphen"/>ned men to be, that such an exercise is rather ap<g ref="char:EOLhyphen"/>pertayning to the Nobilitie and Gentilitie, then to the other estates: and that the inferiours ought not to vse it among the superiours, nor in the presence of them, except the superiours doe bidde or inuite the inferiours to the same, whe<g ref="char:EOLhyphen"/>ther it be by speach, or otherwise. Concluding thereupon, that same Art to be much abused in our age, because (say they) it is practised by a great many, without any diseretion at all.</p>
+               <p>Let vs giue some insight to a few words of the <hi>11.</hi> Chap. of <hi>Iudges,</hi> which wee haue alledged in another line of this Treatise. No mention is made of any person in those Dances, but of the daughter of <hi>Iephtah,</hi> which was Captaine ouer the people of <hi>Israel.</hi> Doth not this argue with great probabilitie, that the said daughter of <hi>Ieph<g ref="char:EOLhyphen"/>tah,</hi> was the moouer and guider of that dancing, as shee was the highest in estate and condition among her fellowes? And doth it not by con<g ref="char:EOLhyphen"/>sequence come to agree with that purpose, which now we haue holden in a brief deduction, a very little before, about the dauncing of <hi>Mi<g ref="char:EOLhyphen"/>riam</hi> the Prophetesse with the other women of <hi>Israel?</hi> None extraordinarie sharpnesse, or viua<g ref="char:EOLhyphen"/>citie of wit is necessarie, to make it enter into
+<pb facs="tcp:10184:12"/>the comprehension of that point.</p>
+               <p>We haue already touched the fifteenth chap<g ref="char:EOLhyphen"/>ter of the Booke of <hi>Iudeth,</hi> which wee must touch againe at this present time, vpon the dis<g ref="char:EOLhyphen"/>course which we haue in hand. For these words are written in the end of it, concerning the sayde most honorable <hi>Iudeth, They also crowned her with Olines, and her that was with her, and shee went before the people in the</hi> Dance, <hi>leading all the Women.</hi> Which words do greatly aug<g ref="char:EOLhyphen"/>ment, without any part of doubt, the strength and vigour of our argumentation: to wit, that the <hi>Dances</hi> do not seeme to become so well the lower sort, as the higher: and that we may thinke according vnto reason, to be somewhat incon<g ref="char:EOLhyphen"/>nenient for the lower, to haue the exercitation of dancing neere the higher, vnlesse some leaue be giuen of these vnto those, one way or other. And herevnto this very short addition, as we do perswade our selues, cannot bee but fitly apply<g ref="char:EOLhyphen"/>ed: that by the Histories of daunces contained in the holy Scripture, it seemeth vnto the con<g ref="char:EOLhyphen"/>sideration of many godly persons, that the pra<g ref="char:EOLhyphen"/>ctise of <hi>Dancing</hi> is more becomming vnto wo<g ref="char:EOLhyphen"/>men, then vnto men.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:10184:13"/>
+               <head>Why Dances are forbidden in some <hi>places among the Christians.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">T</seg>He prohibition of <hi>Dan<g ref="char:EOLhyphen"/>ces</hi> in <hi>Geneua,</hi> &amp; in some other Territories, which do keepe all the orders of the same in matters of Religion, and Ecclesiasti<g ref="char:EOLhyphen"/>call Discipline, was made because of the great abu<g ref="char:EOLhyphen"/>ses of them: to cut off the pernicious euils, which oftentimes happened thereby. Is not this a suf<g ref="char:EOLhyphen"/>ficient argument, to prooue such an action to be good? Behold, our <hi>Messias</hi> in the 18. Chap. of the Gospel according to <hi>S. Matthew,</hi> doeth com<g ref="char:EOLhyphen"/>mand euery one of vs, to cast away his hand, or his foote, or his eyes if they cause him to offend: saying, that it is better, to enter into life, with one hand, or with one foote, or with one eye, then hauing two hands, or two feete, or two eyes, to be cast into euerlasting fire. Therefore if in that case we must needs he depriued of things, which are so much profitable &amp; necessarie: why should those nations haue refused to suppresse a thing, which among them was become altogether
+<pb facs="tcp:10184:13"/>vaine and prophane?</p>
+               <p>Wee read in the <hi>21.</hi> Chap. of <hi>Numbers,</hi> that <hi>Moses</hi> by the commandement of God, did make a Serpent of Brasse, and erected it for a signe vnto the <hi>Israelites.</hi> And we read in the <hi>18.</hi> Chap. of the second Booke of <hi>Kings,</hi> that the religious King <hi>Hezekiah</hi> did beat downe, and breake in peeces the sayd Brasen Serpent, because he saw that the people of <hi>Israel</hi> continued yet to adore the same, in burning Incense vnto it. If then it haue been lawfull, to abolish the Sacrament of God, in con<g ref="char:EOLhyphen"/>sideration that it was abused; why should it not be lawfull, to put away the inuentions of men for the like cause?</p>
+               <p>Mee thinketh it were enough, to make vs leaue and forsake the vsage of such <hi>Dances,</hi> as are onely effected for the pleasure of our eyes, to obserue and consider with studious diligence one thing in the 14. chap. of the Apostle <hi>S. Matthew,</hi> How that through the meanes &amp; occasion of a <hi>Dance, S. Iohn Baptist</hi> was put to death: which was a most excellent Prophet, &amp; a most faythfull fore<g ref="char:EOLhyphen"/>runner of our Sauiour <hi>Iesus Christ.</hi> To whom, with the <hi>Father,</hi> and the <hi>Spirit,</hi> be all magnifi<g ref="char:EOLhyphen"/>cence, and glorie perpetually. <hi>Amen.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
